@@ -17,6 +17,8 @@ create user **madang**@localhost identified by '**madang**';
 grant all privileges on **madangdb**. * to **madang**@localhost;   
 commit;
 
+---
+
 
 ## 리눅스에 MYSQL 삭제하기
 
